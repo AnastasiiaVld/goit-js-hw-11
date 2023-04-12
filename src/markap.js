@@ -1,6 +1,4 @@
 export function renderMarkapGallery(pictures) {
-  console.log(pictures);
-
   const markup = pictures
     .map(
       picture => `
